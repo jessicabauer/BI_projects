@@ -6,6 +6,18 @@ During my experience and training, I developed some dashboards with open informa
 - iii) Google Looker Studio
 - iv) Tableau
 
+## LOTUS COMPANY
+
+EN - Apps are an easy way to share multiple types of content at once. In this application, called Lotus, dashboards and reports were packaged into one application.
+In an application, a set of ready-to-use content is created for customers and employees, and published on the web platform.
+
+PT - Os aplicativos são um modo fácil para compartilhar vários tipos de conteúdo de uma só vez. Neste aplicativo, chamado Lotus, dashboards e relatórios foram empacotados em um aplicativo. 
+Em um aplicativo, cria-se um conjunto de conteúdo pronto para uso de clientes e o colaboradores, publicados na plataforma web.
+
+APP: https://app.powerbi.com/Redirect?action=OpenApp&appId=f338f621-c0ab-4cbf-93a6-70f82c0bbfd0&ctid=d354b1e3-21ce-4f73-b489-182c04ad4376
+![Aplicativo Lotus](https://github.com/jessicabauer/BI_projects/blob/main/APLICATIVO%20PBI.png)
+
+
 ## AGROFUITS
 
 EN - As an example of a project carried out, I present the fictitious company Agrofruits, with information on sales revenue and sales volume.
