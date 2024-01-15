@@ -16,7 +16,8 @@ PT - Os aplicativos são um modo fácil para compartilhar vários tipos de conte
 Em um aplicativo, cria-se um conjunto de conteúdo pronto para uso de clientes e o colaboradores, publicados na plataforma web.
 
 APP: https://app.powerbi.com/Redirect?action=OpenApp&appId=f338f621-c0ab-4cbf-93a6-70f82c0bbfd0&ctid=d354b1e3-21ce-4f73-b489-182c04ad4376
-![Aplicativo Lotus](https://github.com/jessicabauer/BI_projects/blob/main/APLICATIVO%20PBI.png)
+
+![Aplicativo Lotus](https://github.com/jessicabauer/BI_projects/blob/main/Dashboards%20PowerBI/APLICATIVO%20PBI.png)
 
 
 
