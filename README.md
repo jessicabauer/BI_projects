@@ -6,6 +6,7 @@ During my experience and training, I developed some dashboards with open informa
 - iii) Google Looker Studio
 - iv) Tableau
 
+
 ## LOTUS COMPANY
 
 EN - Apps are an easy way to share multiple types of content at once. In this application, called Lotus, dashboards and reports were packaged into one application.
@@ -17,6 +18,15 @@ Em um aplicativo, cria-se um conjunto de conteúdo pronto para uso de clientes e
 APP: https://app.powerbi.com/Redirect?action=OpenApp&appId=f338f621-c0ab-4cbf-93a6-70f82c0bbfd0&ctid=d354b1e3-21ce-4f73-b489-182c04ad4376
 ![Aplicativo Lotus](https://github.com/jessicabauer/BI_projects/blob/main/APLICATIVO%20PBI.png)
 
+
+
+## COMMERCIAL 
+EN - Commercial dashboard, in a fictitious company showing representation of sales by product category, revenues over time, region with the greatest sales volume and best-selling products according to their category.
+
+PT - Dashboard comercial, em empresa fictícia demonstrando representação das vendas por categoria de produtos, receitas ao longo do tempo, região com maior expressividade de vendas e produtos mais vendidos  de acordo com sua categoria.
+
+LINK - https://app.powerbi.com/view?r=eyJrIjoiZjNjN2Y2MTQtMjkzNS00ZDE0LTkxZDctZTY0ZmU4OWFhNDM2IiwidCI6ImQzNTRiMWUzLTIxY2UtNGY3My1iNDg5LTE4MmMwNGFkNDM3NiJ9
+![Commercial Dashboard ](https://github.com/jessicabauer/BI_projects/blob/main/Dashboards%20PowerBI/Dashboard%20PBI%20-%20Commercial.PNG)
 
 ## AGROFUITS
 
