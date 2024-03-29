@@ -5,10 +5,13 @@ Client: healthcare sector
 
 ## Accounts payable and receivable
 ![DPO]([https://github.com/jessicabauer/BI_projects/blob/main/Process%20Mining%20Projects/An%C3%A1lise%20DPO.PNG])
+
 ![DPO]([https://github.com/jessicabauer/BI_projects/blob/main/Process%20Mining%20Projects/An%C3%A1lise%20DPO%20-%202.PNG])
 
 
 ## Emergency care unit  
 ![Emergency Service Management] ([https://github.com/jessicabauer/BI_projects/blob/main/Process%20Mining%20Projects/PA1.PNG])
-![Waiting time for treatment]([https://github.com/jessicabauer/BI_projects/blob/main/Process%20Mining%20Projects/An%C3%A1lise%20de%20Processo%201.PNG])
+
+![Waiting time for treatment] ([https://github.com/jessicabauer/BI_projects/blob/main/Process%20Mining%20Projects/An%C3%A1lise%20de%20Processo%201.PNG])
+
 ![Priority Management]([https://github.com/jessicabauer/BI_projects/blob/main/Process%20Mining%20Projects/Gest%C3%A3o%20de%20Protocolos.PNG])
