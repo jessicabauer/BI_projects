@@ -11,8 +11,7 @@ Client: healthcare sector
 
 
 ## Emergency care unit  
-![Emergency Service Management] (https://github.com/jessicabauer/BI_projects/blob/main/Process%20Mining%20Projects/PA1.PNG)
+![Emergency Service Management]
+![Waiting time for treatment] 
 
-![Waiting time for treatment] (https://github.com/jessicabauer/BI_projects/blob/main/Process%20Mining%20Projects/An%C3%A1lise%20de%20Processo%201.PNG)
-
-![Priority Management](https://github.com/jessicabauer/BI_projects/blob/main/Process%20Mining%20Projects/Gest%C3%A3o%20de%20Protocolos.PNG)
+![Priority Management]
