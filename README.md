@@ -48,3 +48,11 @@ PT - Neste projeto desenhado para uma faculdade brasileira, foi desenvolvido um 
 Além disto foram desenvolvidos visuais sobre solicitações/chamados com status: solicitados, em andamento e concluídos. Filtros para: empresa, área, status e tipo de ganho.
 
 ![Dashboard Vitru Educação ](https://github.com/jessicabauer/BI_projects/blob/main/Dashboards%20PowerBI/Dashboard%20PBI%20-%20Vitru%20Educa%C3%A7%C3%A3o.PNG?raw=true)
+
+
+## PROJECT ZOOMP MEGASTORE
+
+EN - Using some trend analysis resources, a report was developed for the Sales, Customers and Cashback area.
+PT - Utilizando alguns recursos de análise de tendências foi desenvolvido relatório para área de Vendas, Clientes e Cashback.
+
+Link: https://app.powerbi.com/view?r=eyJrIjoiODhlODAxNGYtMjBjYy00MmUxLWI0MjUtOTk4ZjE1MWEyOTYzIiwidCI6ImQzNTRiMWUzLTIxY2UtNGY3My1iNDg5LTE4MmMwNGFkNDM3NiJ9
