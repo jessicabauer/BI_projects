@@ -5,10 +5,10 @@ During my experience as a data analyst and using a process mining platform, cust
 Client: Healthcare sector
 
 ## Accounts payable and receivable
-![DPO ](https://github.com/jessicabauer/BI_projects/blob/main/Process%20Mining%20Projects/An%C3%A1lise%20DPO.PNG)
+[DPO](https://github.com/jessicabauer/BI_projects/blob/main/5.%20Process%20Mining%20Projects/Screenshots/An%C3%A1lise%20DPO.PNG?raw=true)
 
-![DPO ](https://github.com/jessicabauer/BI_projects/blob/main/Process%20Mining%20Projects/An%C3%A1lise%20DPO%20-%202.PNG)
+[DPO](https://github.com/jessicabauer/BI_projects/blob/main/5.%20Process%20Mining%20Projects/Screenshots/An%C3%A1lise%20DPO%20-%202.PNG?raw=true)
 
 ## Emergency Care
-![Length of stay in emergency care] (https://github.com/jessicabauer/BI_projects/blob/main/Process%20Mining%20Projects/An%C3%A1lise%20de%20Processo%201.PNG)
+![Length of stay in emergency care] (https://github.com/jessicabauer/BI_projects/blob/main/5.%20Process%20Mining%20Projects/Screenshots/An%C3%A1lise%20de%20Processo%201.PNG)
 
