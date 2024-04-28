@@ -48,7 +48,7 @@ PT :brazil:- Utilizando alguns recursos de análise de tendências foi desenvolv
 
 Link: https://app.powerbi.com/view?r=eyJrIjoiODhlODAxNGYtMjBjYy00MmUxLWI0MjUtOTk4ZjE1MWEyOTYzIiwidCI6ImQzNTRiMWUzLTIxY2UtNGY3My1iNDg5LTE4MmMwNGFkNDM3NiJ9
 
-![Dashboard ZOOMP MEGASTORE ](
+![Dashboard ZOOMP MEGASTORE ](https://github.com/jessicabauer/BI_projects/blob/main/Dashboards%20PowerBI/ZOOMP.PNG)
 
 **MAIN INSIGHTS:**
 
