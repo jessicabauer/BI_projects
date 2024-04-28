@@ -10,5 +10,7 @@ Client: Healthcare sector
 [DPO](https://github.com/jessicabauer/BI_projects/blob/main/5.%20Process%20Mining%20Projects/Screenshots/An%C3%A1lise%20DPO%20-%202.PNG?raw=true)
 
 ## Emergency Care
-![Length of stay in emergency care] (https://github.com/jessicabauer/BI_projects/blob/main/5.%20Process%20Mining%20Projects/Screenshots/An%C3%A1lise%20de%20Processo%201.PNG)
+[Length of stay in emergency care](https://github.com/jessicabauer/BI_projects/blob/main/5.%20Process%20Mining%20Projects/Screenshots/An%C3%A1lise%20de%20Processo%201.PNG)
 
+# Purchase Orders 
+[POs](https://github.com/jessicabauer/BI_projects/blob/main/5.%20Process%20Mining%20Projects/Screenshots/OC1.PNG?raw=true)
