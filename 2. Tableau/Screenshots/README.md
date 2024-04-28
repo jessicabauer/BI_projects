@@ -3,4 +3,4 @@
 
 ## Netflix
 
-[Dashboard](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Netflix%20Dashboard.png)
+![Dashboard](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Netflix%20Dashboard.png?raw=true))
