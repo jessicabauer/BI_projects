@@ -1,6 +1,6 @@
 ## LOTUS COMPANY
 
-<img src="[URL_da_Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg)" alt= "EN">  - Apps are an easy way to share multiple types of content at once. In this application, called Lotus, dashboards and reports were packaged into one application.
+EN - Apps are an easy way to share multiple types of content at once. In this application, called Lotus, dashboards and reports were packaged into one application.
 In an application, a set of ready-to-use content is created for customers and employees, and published on the web platform.
 
 PT - Os aplicativos são um modo fácil para compartilhar vários tipos de conteúdo de uma só vez. Neste aplicativo, chamado Lotus, dashboards e relatórios foram empacotados em um aplicativo. 
