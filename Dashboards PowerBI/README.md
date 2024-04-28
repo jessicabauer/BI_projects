@@ -3,7 +3,7 @@
 EN - Apps are an easy way to share multiple types of content at once. In this application, called Lotus, dashboards and reports were packaged into one application.
 In an application, a set of ready-to-use content is created for customers and employees, and published on the web platform.
 
-PT - Os aplicativos são um modo fácil para compartilhar vários tipos de conteúdo de uma só vez. Neste aplicativo, chamado Lotus, dashboards e relatórios foram empacotados em um aplicativo. 
+PT :brazil:- Os aplicativos são um modo fácil para compartilhar vários tipos de conteúdo de uma só vez. Neste aplicativo, chamado Lotus, dashboards e relatórios foram empacotados em um aplicativo. 
 Em um aplicativo, cria-se um conjunto de conteúdo pronto para uso de clientes e o colaboradores, publicados na plataforma web.
 
 APP: https://app.powerbi.com/Redirect?action=OpenApp&appId=f338f621-c0ab-4cbf-93a6-70f82c0bbfd0&ctid=d354b1e3-21ce-4f73-b489-182c04ad4376
@@ -35,7 +35,7 @@ Demonstra-se a sazonalidade, principais frutas vendidas e meses com mais vendas,
 EN - In this project designed for a Brazilian college, a background was developed with the company’s visual identification colors.
 In addition, visuals were developed about requests/calls with status: requested, in progress and completed. Filters for: company, area, status and type of earnings.
 
-PT - Neste projeto desenhado para uma faculdade brasileira, foi desenvolvido um plano de fundo com as cores da identificação visual da empresa.
+PT 🇧🇷- Neste projeto desenhado para uma faculdade brasileira, foi desenvolvido um plano de fundo com as cores da identificação visual da empresa.
 Além disto foram desenvolvidos visuais sobre solicitações/chamados com status: solicitados, em andamento e concluídos. Filtros para: empresa, área, status e tipo de ganho.
 
 ![Dashboard Vitru Educação ](https://github.com/jessicabauer/BI_projects/blob/main/Dashboards%20PowerBI/Dashboard%20PBI%20-%20Vitru%20Educa%C3%A7%C3%A3o.PNG?raw=true)
@@ -44,25 +44,25 @@ Além disto foram desenvolvidos visuais sobre solicitações/chamados com status
 ## PROJECT ZOOMP MEGASTORE
 
 EN - Using some trend analysis resources, a report was developed for the Sales, Customers and Cashback area.
-PT - Utilizando alguns recursos de análise de tendências foi desenvolvido relatório para área de Vendas, Clientes e Cashback.
+PT 🇧🇷 - Utilizando alguns recursos de análise de tendências foi desenvolvido relatório para área de Vendas, Clientes e Cashback.
 
 Link: https://app.powerbi.com/view?r=eyJrIjoiODhlODAxNGYtMjBjYy00MmUxLWI0MjUtOTk4ZjE1MWEyOTYzIiwidCI6ImQzNTRiMWUzLTIxY2UtNGY3My1iNDg5LTE4MmMwNGFkNDM3NiJ9
 
 ![Dashboard ZOOMP MEGASTORE ](
 
-# MAIN INSIGHTS:
+**MAIN INSIGHTS:**
 
 EN - In this report, data from a department store chain was analyzed, which has 3 units: Oswaldo Cruz, Parque das Nações and Paulicéia, located in different cities in the metropolitan region of São Paulo. The objective of the analysis was to evaluate the performance of each unit and determine the effectiveness of a Cashback program that offered customers a 5% return on the amount spent on purchases.
 
 Main insights obtained from data analysis:
-(i) Sales
+
+**(i) Sales**
 • The chain had 6.7 thousand sales, with 19 thousand products sold, generating revenue of 16.24 million. The unit with the highest revenue was Oswaldo Cruz (5.81 million), followed by Parque das Nações (5.44) and Paulicéia lastly with 4.99 million.
 • The NPS of the store network was 79.17%, and for each unit we had the following NPS values: Oswaldo Cruz (81.97%), Paulicéia (77.94%) and Parque das Nações (77.51 %).
 • The months with the most sales were May, June, August, October, November and December. Therefore, the fourth quarter was the one that generated the most revenue.
 • The products that generated the most revenue were electronics, and in second place we have Beauty and personal care. On the other hand, what generated the least revenue were stationery/office products and books.
 
-(ii) Customers
-
+**(ii) Customers**
 • The majority of customers are female (54.64%).
 • The products most purchased by females are Food and beverages, Beauty and personal care and Electronics. Furthermore, household and cleaning products are more frequently purchased by women.
 • The products most purchased by men are Food and beverages, Electronics and Beauty and personal care. Furthermore, tools and construction products are purchased more by men.
@@ -71,7 +71,7 @@ Main insights obtained from data analysis:
 • Females also have a higher average rating for purchases
 • The most used payment methods are card and PIX. Furthermore, younger people use digital wallets and older people pay with cash.
 
-(iii) Cashback
+**(iii) Cashback**
 • The take-up rate for the cashback program was 41.86%.
 • Overall, the average ticket of people who joined the program was 2.52 thousand. Meanwhile, the average ticket of people who did not join the program was 2.71 thousand.
 • Only at the Parque das Nações unit, the average ticket for those who joined the fol program was higher (2.67 thousand) when compared to those who did not join (2.64 thousand).
@@ -88,17 +88,17 @@ Action suggestions:
 
 PT- Neste relatório analisou-se os dados de uma rede de lojas de departamento, que possui 3 unidades: Oswaldo Cruz, Parque das Nações e Paulicéia, localizadas em diferentes cidades na região metropolitana de São Paulo. O objetivo da análise era avaliar o desempenho de cada unidade e determinar a eficácia de um programa de Cashback que oferecia aos clientes um retorno de 5% sobre o valor gasto em compras.
 
-#PRINCIPAIS INSIGHTS 
+**PRINCIPAIS INSIGHTS**
 
 Principais insights obtidos a partir da análise dos dados:
-(i)	Vendas
+
+**(i)	Vendas**
 •	A rede teve 6,7 mil vendas, sendo 19 mil produtos vendidos, gerando um faturamento de 16,24 milhões. A unidade com maior faturamento foi Oswaldo Cruz (5,81 milhões), seguida de Parque das Nações (5,44) e Paulicéia por último com 4,99 milhões.
 •	O NPS da rede de lojas foi de 79,17%, sendo que para cada unidade tivemos os seguintes valores de NPS: Oswaldo Cruz (81,97%), Paulicéia (77,94%) e Parque das Nações(77,51%).
 •	Os meses com mais vendas foram maio, junho, agosto, outubro, novembro e dezembro. Portanto, o quarto trimestre foi o que gerou maior receita.
 •	Os produtos que geraram maior receita foram os eletrônicos, e em segundo lugar temos Beleza e cuidados pessoais.´Por outro lado, o que gerou menos receita foram os produtos de papelaria/escritório e livros.
 
-(ii)	Clientes
-
+**(ii)	Clientes**
 •	A maioria dos clientes é do sexo biológico feminino (54,64%).
 •	Os produtos mais comprados por pessoas do sexo feminino são Alimentos e bebidas, Beleza e cuidados pessoais e Eletrônicos. Além disso, produtos de Casa e limpeza são mais comprado pelo sexo feminino.
 •	Os produtos mais comprados por pessoas do sexo masculino são Alimentos e bebidas, Eletrônicos e Beleza e cuidados pessoais. Além disso, Ferramentas e produtos para construção são mais comprados pelo sexo masculino.
@@ -107,7 +107,7 @@ Principais insights obtidos a partir da análise dos dados:
 •	Pessoas do sexo feminino também tem maior média na nota de avaliação das compras
 •	Os métodos de pagamento mais utilizados são cartão e PIX. Além disso, pessoas mais jovens utilizam carteira digital e pessoas mais velhas fazem pagamento com dinheiro.
 
-(iii)	Cashback
+**(iii)	Cashback**
 •	A taxa de adesão ao programa de cashback foi de 41,86%.
 •	No geral, o ticket médio de pessoas que aderiram ao programa foi de 2,52 mil. Enquanto isso, o ticket médio de pessoas que não aderiram ao programa foi de 2,71 mil.
 •	Apenas na unidade Parque das nações o ticket médio de quem aderiu ao programa fol maior (2,67 mil) quando comparado a quem não aderiu (2,64 mil).
