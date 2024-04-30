@@ -20,3 +20,9 @@ vi. I also categorized the TV show/series, The Blacklist into type, title, ratin
 
 Click on the link: [![Amazon](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/views/Dashboard-Amazon_17143553708580/Dashboard?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 ![Dashboard](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Dashboard%20Amazon.png)
+
+
+## HR Analysis
+
+Click on the link: [![HR](https://public.tableau.com/views/HRDashboard_17144861540900/HRAnalyticsDashboard?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+![Dashboard](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/HR%20Analytics%20Dashboard.png)
