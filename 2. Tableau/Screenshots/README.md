@@ -24,5 +24,9 @@ Click on the link: [![Amazon](https://img.shields.io/badge/Tableau-E97627?style=
 
 ## HR Analysis
 
-Click on the link: [![HR](https://public.tableau.com/views/HRDashboard_17144861540900/HRAnalyticsDashboard?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+[![HR](https://public.tableau.com/views/HRDashboard_17144861540900/HRAnalyticsDashboard?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 ![Dashboard](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/HR%20Analytics%20Dashboard.png)
+
+## Sales and Finance
+
+[![Link]([https://public.tableau.com/views/HRDashboard_17144861540900/HRAnalyticsDashboard?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Dashboard-EmpresaFrutas/Home?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link))
