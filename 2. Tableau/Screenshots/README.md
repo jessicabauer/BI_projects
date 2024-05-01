@@ -13,7 +13,7 @@ iv. Genre: With genre is shows that viewers prefer Drama, International Movies t
 v. Years: It indicates that Movies have always dominated the industry with higher production than TV Shows each year.
 vi. I also categorized the TV show/series, The Blacklist into type, title, rating, duration, date added, description, release year, genre and release year.
 
-![Dashboard](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Netflix%20Dashboard.png?raw=true))
+![Dashboard](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Netflix%20Dashboard.png?raw=true)
 
 
 ## Amazon
@@ -24,9 +24,12 @@ Click on the link: [![Amazon](https://img.shields.io/badge/Tableau-E97627?style=
 
 ## HR Analysis
 
-[![HR](https://public.tableau.com/views/HRDashboard_17144861540900/HRAnalyticsDashboard?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+Click on the link: [![HR Analysis](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/views/HRDashboard_17144861540900/HRAnalyticsDashboard?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 ![Dashboard](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/HR%20Analytics%20Dashboard.png)
 
 ## Sales and Finance
 
-[![Link]([https://public.tableau.com/views/HRDashboard_17144861540900/HRAnalyticsDashboard?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Dashboard-EmpresaFrutas/Home?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link))
+Click on the link: [![Sales and Finance](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/views/Dashboard-EmpresaFrutas/Home?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+![Main Page](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Page1.png)
+![Sales Dashboard](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Page2.png)
+![Finance Dashboard](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Page3.png)
