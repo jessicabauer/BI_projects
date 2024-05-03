@@ -11,6 +11,25 @@ APP: https://app.powerbi.com/Redirect?action=OpenApp&appId=f338f621-c0ab-4cbf-93
 ![Aplicativo Lotus](https://github.com/jessicabauer/BI_projects/blob/main/1.%20PowerBI/Screenshots/APLICATIVO%20PBI.png)
 
 
+## HEALTHBIT 
+
+PT :brazil: - Indicadores da área de saúde apresentados com algumas análises das identificadas:
+1.Análise de Tendência de Custos ao Longo do Tempo
+2. Segmentação de Custos por Plano de Saúde:
+Analise dos custos por plano de saúde (Básico, Médio, Superior) ao longo do tempo.
+Comparação do crescimento dos custos entre os diferentes planos.
+3. Distribuição de Custos por Tipo de Evento:
+ Gráficos de barras empilhadas para mostrar como os custos são distribuídos entre diferentes tipos de eventos (procedimentos, medicamentos, consultas, etc.).
+Identificar quais tipos de eventos contribuem mais para as flutuações de custos.
+4. Análise de Custos por Faixa Etária:
+Agrupamento dos custos por faixa etária e analise de como eles variam ao longo do tempo.
+Identificar se certas faixas etárias têm um impacto maior nas flutuações de custos.
+5. Análise de Custos por Gênero:
+Comparação de custos entre os gêneros masculino e feminino.
+Determinar se há diferenças significativas nos custos médios entre os gêneros.
+
+LINK: https://github.com/jessicabauer/BI_projects/blob/main/1.%20PowerBI/Dashboards/HEALTHBIT.pbix
+![HEALTHBIT](https://github.com/jessicabauer/BI_projects/blob/main/1.%20PowerBI/Screenshots/Dashboard%20HealthBIT%20-%20JPEG.PNG)
 
 ## COMMERCIAL 
 EN :us:- Commercial dashboard, in a fictitious company showing representation of sales by product category, revenues over time, region with the greatest sales volume and best-selling products according to their category.
