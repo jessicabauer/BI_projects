@@ -28,7 +28,7 @@ Seasonality is demonstrated, main fruits sold and months with the most sales, co
 PT :brazil: - Como exemplo de projeto realizado, apresento sobre a empresa fictícia Agrofruits, com informações de receita de vendas e volume de vendas. 
 Demonstra-se a sazonalidade, principais frutas vendidas e meses com mais vendas, países de onde destinam-se as vendas, tipo de transporte e fazendas com maior impacto.
 
-![Dashboard Agrofruits ]()
+![Dashboard Agrofruits ](https://github.com/jessicabauer/BI_projects/blob/main/1.%20PowerBI/Screenshots/AGROFRUITS.PNG)
 
 ## PROJECT VITRU EDUCAÇÃO
 
