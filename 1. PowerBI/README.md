@@ -28,7 +28,7 @@ Identificar se certas faixas etárias têm um impacto maior nas flutuações de 
 Comparação de custos entre os gêneros masculino e feminino.
 Determinar se há diferenças significativas nos custos médios entre os gêneros.
 
-LINK: https://github.com/jessicabauer/BI_projects/blob/main/1.%20PowerBI/Dashboards/HEALTHBIT.pbix
+LINK: https://app.powerbi.com/view?r=eyJrIjoiOTRmOWZhMzMtMjhlYy00YWRiLTgyMTAtZjdmMmFiMjJmNDJjIiwidCI6ImQzNTRiMWUzLTIxY2UtNGY3My1iNDg5LTE4MmMwNGFkNDM3NiJ9
 ![HEALTHBIT](https://github.com/jessicabauer/BI_projects/blob/main/1.%20PowerBI/Screenshots/Dashboard%20HealthBIT%20-%20JPEG.PNG)
 
 ## COMMERCIAL 
