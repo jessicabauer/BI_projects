@@ -33,3 +33,12 @@ Click on the link: [![Sales and Finance](https://img.shields.io/badge/Tableau-E9
 ![Main Page](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Page1.png)
 ![Sales Dashboard](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Page2.png)
 ![Finance Dashboard](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Page3.png)
+
+
+# Dashboard Vendas/ Financeiro - Profit by Category
+Click on the link: [![Vendas/ Finanças] (https://public.tableau.com/views/DashboardVendasFinanceiro/Painel1?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+![Dashboard 1](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/FINANCEIRO.png)
+Click on the link:[![Sales and Profit by Location] (https://public.tableau.com/views/VendaseLucro-Empresa/VendaseLucro?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link)
+![Dashboard 2](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Vendas%20e%20Lucro%20-%20Empresa.png)
+Click on the link:[![Sales and Profit by Category and Subcategory](https://public.tableau.com/views/VendaseLucroporCategoriaSubcategoriaeProdutos_17152005624370/Painel1?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link)
+![Dashboard 3](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Vendas%20e%20Lucro%20por%20Categoria%2C%20Subcategoria%20e%20Produtos.png)
