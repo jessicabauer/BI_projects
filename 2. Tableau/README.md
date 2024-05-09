@@ -1,4 +1,10 @@
 
+# Value Inc Sales
+
+Click on the link: [![Dashboard](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/views/ValueInc_SalesDashboard_17152858351400/Painel1?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
+![Value Inc](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Value%20Inc%20Sales%20Dashboard.png)
+
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/views/Tableau-DashboardNetflix/NetflixDashboard?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Netflix
@@ -15,6 +21,15 @@ vi. I also categorized the TV show/series, The Blacklist into type, title, ratin
 
 ![Dashboard](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Netflix%20Dashboard.png?raw=true)
 
+# Dashboard Vendas/ Financeiro - Profit by Category
+Click on the link: [![Vendas/ Finanças](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/views/DashboardVendasFinanceiro/Painel1?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+![Dashboard 1](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/FINANCEIRO.png)
+
+Click on the link:[![Sales and Profit by Location](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/views/VendaseLucro-Empresa/VendaseLucro?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link)
+![Dashboard 2](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Vendas%20e%20Lucro%20-%20Empresa.png)
+
+Click on the link:[![Sales and Profit by Category and Subcategory](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/views/VendaseLucroporCategoriaSubcategoriaeProdutos_17152005624370/Painel1?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link)
+![Dashboard 3](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Vendas%20e%20Lucro%20por%20Categoria%2C%20Subcategoria%20e%20Produtos.png)
 
 ## Amazon
 
@@ -27,23 +42,6 @@ Click on the link: [![Amazon](https://img.shields.io/badge/Tableau-E97627?style=
 Click on the link: [![HR Analysis](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/views/HRDashboard_17144861540900/HRAnalyticsDashboard?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 ![Dashboard](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/HR%20Analytics%20Dashboard.png)
 
-
-# Dashboard Vendas/ Financeiro - Profit by Category
-Click on the link: [![Vendas/ Finanças](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/views/DashboardVendasFinanceiro/Painel1?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
-![Dashboard 1](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/FINANCEIRO.png)
-
-Click on the link:[![Sales and Profit by Location](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/views/VendaseLucro-Empresa/VendaseLucro?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link)
-![Dashboard 2](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Vendas%20e%20Lucro%20-%20Empresa.png)
-
-Click on the link:[![Sales and Profit by Category and Subcategory](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/views/VendaseLucroporCategoriaSubcategoriaeProdutos_17152005624370/Painel1?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link)
-![Dashboard 3](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Vendas%20e%20Lucro%20por%20Categoria%2C%20Subcategoria%20e%20Produtos.png)
-
-
-# Value Inc Sales
-
-Click on the link: [![Dashboard](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/views/ValueInc_SalesDashboard_17152858351400/Painel1?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
-
-![Value Inc](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Value%20Inc%20Sales%20Dashboard.png)
 
 
 ## Sales and Finance
