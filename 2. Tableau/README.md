@@ -44,3 +44,10 @@ Click on the link: [![Sales and Finance](https://img.shields.io/badge/Tableau-E9
 ![Main Page](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Page1.png)
 ![Sales Dashboard](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Page2.png)
 ![Finance Dashboard](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Page3.png)
+
+
+# Value Inc Sales
+
+Click on the link: [![Dashboard](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/views/ValueInc_SalesDashboard_17152858351400/Painel1?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
+![Value Inc](https://github.com/jessicabauer/BI_projects/blob/main/2.%20Tableau/Screenshots/Value%20Inc%20Sales%20Dashboard.png)
