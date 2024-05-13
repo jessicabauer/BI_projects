@@ -13,6 +13,8 @@ APP: https://app.powerbi.com/Redirect?action=OpenApp&appId=f338f621-c0ab-4cbf-93
 
 ## HEALTHBIT 
 
+EN :us: Dashboard developed on data of a Health Brazilian company.
+
 PT :brazil: - Indicadores da área de saúde apresentados com algumas análises das identificadas:
 1.Análise de Tendência de Custos ao Longo do Tempo
 2. Segmentação de Custos por Plano de Saúde:
